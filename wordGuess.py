@@ -9,5 +9,5 @@ while number > 0:
         print('Your guess is greater , guess a number smaller than ',a)
     else:
         print('congratulation You are right! the no is',a)
-        break;
+        break
     number-=1
